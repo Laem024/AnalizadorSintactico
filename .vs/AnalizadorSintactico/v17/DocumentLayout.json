@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|c:\\users\\laem0\\desktop\\cursos\\utesa\\c#\\analizadorsintactico\\analizadorsintactico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|solutionrelative:analizadorsintactico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|c:\\users\\laem0\\desktop\\cursos\\utesa\\c#\\analizadorsintactico\\analizadorsintactico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|solutionrelative:analizadorsintactico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|c:\\users\\laem0\\desktop\\cursos\\utesa\\c#\\analizadorsintactico\\analizadorsintactico\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756CFD77-4575-48D4-B3ED-E4F41406BC36}|AnalizadorSintactico\\AnalizadorSintactico.csproj|solutionrelative:analizadorsintactico\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AnalizadorSintactico\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.Designer.cs",
+              "RelativeToolTip": "AnalizadorSintactico\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:40:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.cs",
+              "RelativeDocumentMoniker": "AnalizadorSintactico\\Form1.cs",
+              "ToolTip": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AnalizadorSintactico\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:40:05.885Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.cs",
+              "RelativeDocumentMoniker": "AnalizadorSintactico\\Form1.cs",
+              "ToolTip": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\AnalizadorSintactico\\AnalizadorSintactico\\Form1.cs",
+              "RelativeToolTip": "AnalizadorSintactico\\Form1.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAYwF4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:38:35.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

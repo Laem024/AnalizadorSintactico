@@ -1,0 +1,16 @@
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\bin\Debug\net8.0-windows\AnalizadorSintactico.exe
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\bin\Debug\net8.0-windows\AnalizadorSintactico.deps.json
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\bin\Debug\net8.0-windows\AnalizadorSintactico.runtimeconfig.json
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\bin\Debug\net8.0-windows\AnalizadorSintactico.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\bin\Debug\net8.0-windows\AnalizadorSintactico.pdb
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.Form1.resources
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.csproj.GenerateResource.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.AssemblyInfoInputs.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.AssemblyInfo.cs
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.csproj.CoreCompileInputs.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\refint\AnalizadorSintactico.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.pdb
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\AnalizadorSintactico.genruntimeconfig.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\AnalizadorSintactico\AnalizadorSintactico\obj\Debug\net8.0-windows\ref\AnalizadorSintactico.dll
